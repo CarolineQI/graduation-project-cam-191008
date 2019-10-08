@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/cam">
+        <file>resource/file(red)/file.png</file>
+        <file>resource/start(gray)/startcurrent.png</file>
+        <file>resource/start(gray)/startpressed.png</file>
+        <file>resource/start(gray)/return.png</file>
+        <file>resource/start(gray)/build.png</file>
+        <file>resource/start(gray)/newfile.png</file>
+        <file>resource/start(gray)/openfile.png</file>
+        <file>resource/start(gray)/saveas.png</file>
+        <file>resource/start(gray)/savefile.png</file>
+        <file>resource/start(gray)/start.png</file>
+        <file>resource/HUST.png</file>
+        <file>resource/start(gray)/open.png</file>
+        <file>resource/start(gray)/save.png</file>
+        <file>resource/start(gray)/saveasMain.png</file>
+    </qresource>
+</RCC>
